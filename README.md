@@ -17,8 +17,8 @@
     * Refactor often
     * Use meaningful names
 * Design principles
-    * SOLID
-    * YAGNI
+    * SOLID (single responsibility, open–closed, Liskov substitution, interface segregation и dependency inversion)
+    * YAGNI (You aren't gonna need it)
     * KISS (Keep It Simple, Silly)
     * DRY (Don't Repeat Yourself)
     * Composition over inheritance
