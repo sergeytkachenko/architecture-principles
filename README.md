@@ -17,10 +17,10 @@
     * Refactor often
     * Use meaningful names
 * Design principles
-    * SOLID (single responsibility, open–closed, Liskov substitution, interface segregation и dependency inversion)
-    * YAGNI (You aren't gonna need it)
-    * KISS (Keep It Simple, Silly)
-    * DRY (Don't Repeat Yourself)
+    * SOLID (**single responsibility, open–closed, Liskov substitution, interface segregation и dependency inversion**)
+    * YAGNI (**You aren't gonna need it** с англ. — «Вам это не понадобится»)
+    * KISS (**Keep It Simple, Silly** с англ. — «Держать его просто глупо»)
+    * DRY (**Don't Repeat Yourself**)
     * Composition over inheritance
     * Program to interfaces, not to implementations
     * Design by Contract (DBC)
