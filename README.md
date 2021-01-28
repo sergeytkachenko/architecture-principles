@@ -18,6 +18,8 @@
     * Use meaningful names
 * Design principles
     * SOLID (**single responsibility, open–closed, Liskov substitution, interface segregation и dependency inversion**)
+    ** **Liskov substitution** с англ. — «Функции, которые используют базовый тип, должны иметь возможность использовать подтипы базового типа, не зная об этом.»
+    ** **interface segregation** с англ. — «Программные сущности не должны зависеть от методов, которые они не используют.»
     * YAGNI (**You aren't gonna need it** с англ. — «Вам это не понадобится»)
     * KISS (**Keep It Simple, Silly** с англ. — «Держать его просто глупо»)
     * DRY (**Don't Repeat Yourself**)
