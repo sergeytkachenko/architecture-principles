@@ -27,6 +27,7 @@
       * Каждая часть знания должна иметь единственное, непротиворечивое и авторитетное представление в рамках системы
     * Composition over inheritance
     * Program to interfaces, not to implementations
+      * Программирование интерфейса означает, что вы должны сосредоточиться на том, что делает код, а не на том, как он на самом деле реализован
     * Design by Contract (DBC)
     * Separation of Concerns
     * Principle of Least Surprise
