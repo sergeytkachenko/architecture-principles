@@ -29,7 +29,7 @@
     * Program to interfaces, not to implementations
       * Программирование интерфейса означает, что вы должны сосредоточиться на том, что делает код, а не на том, как он на самом деле реализован
     * Design by Contract (DBC)
-    * Separation of Concerns
+    * Separation of Concerns - с англ. — «Разделение ответственностей»
     * Principle of Least Surprise
     * Law of Demeter
     * The Four Primary Object-Oriented Design Principles
