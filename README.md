@@ -31,7 +31,9 @@
     * Design by Contract (DBC)
     * Separation of Concerns - с англ. — «Разделение ответственностей»
       * Cohesion - с англ. —  «связность характеризует то, насколько хорошо все методы класса или все фрагменты метода соответствуют главной цели, — иначе говоря, насколько сфокусирован класс»
+         * **We need to aim for a HIGH cohesion**
       * Coupling - с англ. — «степень взаимозависимости между программными модулями»
+         * **We need to aim for a LOOSE coupling**
     * Principle of Least Surprise
     * Law of Demeter
     * The Four Primary Object-Oriented Design Principles
